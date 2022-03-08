@@ -1,6 +1,7 @@
 # angelFree
 free project(image/js/html/css/jar/doc/docx/txt/xml/pdf/xls/xlsx/csv/sql/ttf/ttc/woff)</br>
 免费分享cdn加速</br>
+https://cdn.jsdelivr.net/gh/user/repo@version/file
 图片：image</br>
 Jscript：js</br>
 HTML：html</br>
